@@ -1,5 +1,5 @@
 #**************************************
-# Lab Assignment #1: Diamond Shape
+# Lab Assignment #1: Python Review
 # Programmed by: Lance Raven F. Diongco
 # Course, Year, and Section: BSCpE 2-3
 # Instructor: Engr. Godofredo T. Avena
