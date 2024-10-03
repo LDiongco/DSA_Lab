@@ -1,6 +1,8 @@
-## **DSA_Lab Repository**
-#### Programmed by: Lance Raven F. Diongco
-#### Section: BSCPE 1-3
----
-#### This repository is dedicated for laboratories for the subject [ *Data Structure and Algorithms* ]
-#### Use branches to navigate through each Laboratory Activity
+Developer: Lance Raven F. Diongco<br/>
+Section: BSCpE 2-3 <br/>
+Submitted: October 3, 2024
+
+Lab Assignment #2: Python Review <br/>
+Contains the following programs:
+- List Comprehension Exercises
+
